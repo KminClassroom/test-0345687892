@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "demo-in-out",
+      "setup": "",
+      "run": "make test",
+      "input": "",
+      "output": "Hello world!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
